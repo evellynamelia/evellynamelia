@@ -18,5 +18,5 @@
   <a href="https://www.linkedin.com/in/evellyn-am%C3%A9lia-7aaa3b205/" target="_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>
   <a href="https://www.instagram.com/evllynzx/" target="_black"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_black"></a>
   <a href="https://www.facebook.com/profile.php?id=100069215873028&_rdc=1&_rdr" target="_black"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_black"></a>
-  <a href="" target="_black"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_black"></a>  
+  <a href="https://www.youtube.com/@llinzx9745" target="_black"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_black"></a>  
 </div>
