@@ -1,4 +1,4 @@
-## Olá! Eu sou a Evellyn Amélia 👋
+<h1 align="center" >Olá! Eu sou a Evellyn Amélia  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evellynamelia&show_icons=true&theme=radical"/>
