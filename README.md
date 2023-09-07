@@ -16,7 +16,6 @@
   <a href="https://www.instagram.com/evllynzx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=7F3ACE" style="vertical-align:top"></a>
 <!-- whatsapp -->
  <a href="https://api.whatsapp.com/send?phone=5581984490183" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=7F3ACE" style="vertical-align:top"></a>
-
  <!-- youtube -->
  <a href="https://www.youtube.com/@llinzx9745" target="_black"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=7F3ACE" style="vertical-align:top"></a>  
 
