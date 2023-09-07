@@ -30,8 +30,8 @@
   <a href="https://github.com/evellynamelia">
   
   <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=evellynamelia&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evellynamelia&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=evellynamelia&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evellynamelia&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
   </div>
  <br>
  
