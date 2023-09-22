@@ -1,4 +1,4 @@
-<h1 align="center">?<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
+<h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
          width="30px">
 
   <div display: "flex" align="center"><br>
