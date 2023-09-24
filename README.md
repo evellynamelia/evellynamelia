@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me chamo Evellyn Amélia<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
+<h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
          width="30px">
 
   <div display: "flex" align="center"><br>
@@ -35,7 +35,8 @@
  # 
 <h3 align="center">Linguagens e ferramentas :</h3>
 <div style="display: inline_blobk"><br>
-<p align="center">
+<p align="center"
+>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,java,git,python" />
   </a>
