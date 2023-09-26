@@ -28,8 +28,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,java,git,python" />
   </a>
 </p>
-
-##
     
 ![Snake animation](https://github.com/Ricmaloy/Ricmaloy/blob/output/github-contribution-grid-snake.svg)
 
