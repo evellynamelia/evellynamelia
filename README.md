@@ -13,7 +13,7 @@
 <!--Portfólio -->
  <!-- <a href="##" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=logoColor=7F3ACE" style="vertical-align:top"></a> -->
 <!-- Linkedin -->
-  <a href="https://www.linkedin.com/in/evellyn-am%C3%A9lia-7aaa3b205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=9f5ec2" target="_blank" style="vertical-align:top"></a> 
+  <a href="https://www.linkedin.com/in/evellyn-am%C3%A9lia-7aaa3b205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=9f5ec2" style="vertical-align:top"></a> 
   <!-- gmail -->
   <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=evellynamelia2005@gmail.com"><img title="evellynamelia2005@gmail.com" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=9f5ec2" style="vertical-align:top"></a>
 <!-- instagram -->
