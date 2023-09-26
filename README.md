@@ -1,5 +1,12 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
-         width="30px">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#9f5ec2&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9f5ec2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Evellyn+Amélia;I'm+18+years+old;I+from+Recife,+PE;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=evellynamelia&show_icons=true&count_private=true&hide_border=true&title_color=9f5ec2&icon_color=9f5ec2&text_color=c9d1d9&bg_color=0d1117" alt="Evellyn Amélia github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evellynamelia&layout=compact&hide_border=true&title_color=9f5ec2&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
   <div display: "flex" align="center"><br>
 <h3Contact: </h3
@@ -14,29 +21,9 @@
 <!-- whatsapp -->
  <a href="https://api.whatsapp.com/send?phone=5581984490183" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=7F3ACE" style="vertical-align:top"></a>
  <!-- youtube -->
- <a href="https://www.youtube.com/@llinzx9745" target="_black"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=7F3ACE" style="vertical-align:top"></a>  
-
-  
-</h1>
-<div display: "flex" align="center">
-<h3Contact: </h3
-  
-##
-
-  <h3>GitHub Statistics:</h3>
-  <a href="https://github.com/evellynamelia">
-  
-  <div align="center">
-  <img height="170em" src="https://streak-stats.demolab.com?user=evellynamelia&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evellynamelia&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
-  </div>
+ <a href="https://www.youtube.com/@llinzx9745" target="_black"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=7F3ACE" style="vertical-align:top"></a>  <br>
  <br>
- 
- # 
-<h3 align="center">Linguagens e ferramentas :</h3>
-<div style="display: inline_blobk"><br>
-<p align="center"
->
+         
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,java,git,python" />
   </a>
@@ -45,5 +32,8 @@
 ##
     
 ![Snake animation](https://github.com/Ricmaloy/Ricmaloy/blob/output/github-contribution-grid-snake.svg) 
+<br>
+
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#9f5ec2&height=120&section=footer"/>
 
   
